@@ -6,7 +6,7 @@ earns fees from loan originations and servicing.
 
 While loan/borrower details can be easily scraped from SEC filings, much of this info is already provided in a comprehensive 
 format by Lending Club on its website.  Therefore instead of scraping all details from filings, I focus my attention on 
-3 relevant items:
+3 relevant items that isnt available via Lending Club:
 1. Borrower FICO scores arent available with the traditional loan data. Only if you are an investor with Lending Club can you obtain 
 loan-level info on FICO scores. 
 2. I scrape data on each loan's complete origination date i.e. after a loan has successfully secured funding from investors. In 
